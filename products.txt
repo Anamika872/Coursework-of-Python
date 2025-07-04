@@ -1,0 +1,6 @@
+1, Vitamin C Serum, Garnier,2,1000.0, France
+2, Skin Cleanser, Cetaphil,64,280.0, Switzerland
+3, Sunscreen , Aqualogica,725,700.0, India
+4, Eye Cream , CeraVe,114,400.0, Thailand
+5, Moisturizer, Elf,234,450.0, France
+6, Face Mask, APLB,132,150.0, Korea
